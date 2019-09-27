@@ -59,7 +59,7 @@ while option not in 'Ss':
 
 	if option == '4':#ACELERACAO
 		times_for_game = int(input('Determine um limite de jogo: '))
-		for a in range(1,times_for_game +1):
+		for a in range(1,times_for_game +2):
 			print('#'*45)
 			print('''
 	\033[1;36m[1]APENAS ACELERACAO
