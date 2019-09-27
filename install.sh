@@ -2,5 +2,7 @@
 echo 'INSTALANDO AS DEPENDENCIAS'
 
 pip install wikipedia
+pip install att
+pip install math
 
-echo 'PRONTO PODE FAZER PESQUISAS'
+echo 'PRONTO PARA USAR A FERRAMENTA'
