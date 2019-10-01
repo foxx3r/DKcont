@@ -266,16 +266,4 @@ sendo R${capital:.2f} reias de emprestimo e
 				print(f'\033[1;32mO Resultado do X1 e: {X1:.3f}')
 				print(f'O Resultado do X2 e: {X2:.3f}\033[m')
 	if option in 'Ss':
-		break				
-											
-		
-
-
-
-
-
-
-
-
-
-
+		break																	
